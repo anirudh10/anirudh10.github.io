@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "LFC ARE PREMIER LEAGUE CHAMPIONS!!!"
+title:  "Liverpool FC are PL Champions"
 date:   2020-06-28 18:17:17 -0500
 categories: lfc
 ---
-WE ARE THE BEST FOOTBALL CLUB IN THE WORLD!
+It has been coming ...
 
+WE ARE THE BEST FOOTBALL CLUB IN THE WORLD!
