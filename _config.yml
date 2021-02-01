@@ -16,7 +16,7 @@
 title: Only what is needed
 email: anirudhperugu10@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Creating a website just to write down what I learn during the week.
+  Just to write down what I learn during the week.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AnirudhOneZero
