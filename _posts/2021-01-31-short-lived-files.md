@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "TempFile or Short Lived Files"
+title:  "Short Lived Files"
 date:   2021-01-31 19:26:00 -0500
-categories: programming, abstraction, trywithresources
+categories: trywithresources
 ---
 ## What is this about?
 Say for example you need to download a file from the internet and do something with it like upload it to s3 and then delete it.
@@ -18,7 +18,7 @@ Steps:
 _Even if the try block throws an exception close will be called. Add "int i = 9/0;" just before closing the try block_
 
 Code Snippet
-{% highlight java %}
+```java
 public static void main(String[] args) throws IOException {
     String uri = "https://v.adsrvr.org/cndhtdu/7wcw6dq/qwc0a0hx7e2667d914e944718a329d63d42da271.webm";
     String extension = FilenameUtils.getExtension(uri);
@@ -52,4 +52,4 @@ public static class TempFile implements Closeable {
         }
     }
 }
-{% endhighlight %}
+```
