@@ -2,7 +2,8 @@
 layout: post
 title:  "Short Lived Files"
 date:   2021-01-31 19:26:00 -0500
-categories: trywithresources
+permalink: /short-lived-files/
+categories: trywithresources abstraction programming
 ---
 ## What is this about?
 Say for example you need to download a file from the internet and do something with it like upload it to s3 and then delete it.

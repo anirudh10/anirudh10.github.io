@@ -2,8 +2,7 @@
 layout: post
 title:  "Liverpool FC are PL Champions"
 date:   2020-06-28 18:17:17 -0500
+permalink: /lfc/
 categories: lfc
 ---
-It has been coming ...
-
-WE ARE THE BEST FOOTBALL CLUB IN THE WORLD!
+All around the fields of anfield road ... 
