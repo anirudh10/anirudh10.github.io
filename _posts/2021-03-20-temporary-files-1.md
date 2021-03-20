@@ -2,7 +2,7 @@
 layout: post
 title:  "Short Lived Files"
 date:   2021-01-31 19:26:00 -0500
-permalink: /temporary-files/
+permalink: /temporary-files-1/
 categories: programming
 ---
 ## Use Case
