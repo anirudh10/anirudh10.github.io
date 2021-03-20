@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Short Lived Files 2"
-date:   2021-01-31 19:26:00 -0500
+title:  "Temporary Files 2"
+date:   2021-03-20 09:49:00 -0500
 permalink: /temporary-files-2/
 categories: trywithresources abstraction programming
 ---
