@@ -13,7 +13,8 @@ By the looks of it, he doesn't care about where you download it, how you upload 
 Let's see what Java has for us - temporary files!
 
 ## How to do it?
-Simple download and delete:
+The tempfile is deleted manually in the /temporary-files-1 version. 
+This version uses try with resources to delete it.
 1. Create a static class (TempFile) that implements the "Closeable" interface.
 2. Create the tempfile object with try and resources.
 3. Now you have the handle, do whatever you want and close the block.
