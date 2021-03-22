@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Liverpool FC are PL Champions"
+title:  "My First Post"
 date:   2020-06-28 18:17:17 -0500
-permalink: /lfc/
-categories: lfc
+permalink: /first-post/
+categories: firstpost
 ---
-All around the fields of anfield road ... 
+Just writing down things for later use.
