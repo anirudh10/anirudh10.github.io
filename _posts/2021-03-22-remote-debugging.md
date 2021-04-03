@@ -9,7 +9,7 @@ categories: programming
 Suppose you have a production instance that is running java and you want to debug a request flow.
 
 ## Thinking process
-There are two ways of doing it - either add debug statements or perform remote debugging.
+There are two ways of doing it - either add debug statements(and keep restarting) or perform remote debugging.
 
 ## How to perform remote debugging?
 1. On the remote server
